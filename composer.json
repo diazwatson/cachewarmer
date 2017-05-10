@@ -1,0 +1,13 @@
+{
+    "name": "diazwatson/cachewarmer",
+    "description": "A simple cache warmer tool.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Raul E Watson",
+            "email": "diazwatson@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

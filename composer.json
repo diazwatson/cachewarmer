@@ -1,6 +1,8 @@
 {
     "name": "diazwatson/cachewarmer",
     "description": "A simple cache warmer tool.",
+    "homepage": "https://github.com/diazwatson/cachewarmer",
+    "license": "MIT",
     "type": "project",
     "authors": [
         {
